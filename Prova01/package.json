@@ -1,0 +1,20 @@
+{
+  "name": "prova01",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4173",
+    "backend": "json-server --watch db/db.json"
+  },
+  "dependencies": {
+    "json-server": "^0.17.0",
+    "vue": "^3.2.37",
+    "vue-material-design-icons": "^5.1.1",
+    "vue-router": "^4.0.16"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.3",
+    "vite": "^2.9.12"
+  }
+}
