@@ -21,6 +21,7 @@
 <style scoped>
     nav
     {
+        /* position: fixed; */
         width: 100vw;
         height: 10vh;
         background-color: #222;

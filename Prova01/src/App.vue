@@ -47,6 +47,9 @@ import Footer from "./components/Footer.vue"
   {
     height: 100vh;
     width: 100vw;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
   }
   .main-container
   {
