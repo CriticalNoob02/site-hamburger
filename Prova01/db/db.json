@@ -79,25 +79,27 @@
   ],
   "burgers": [
     {
-      "nome": "Adriel",
-      "pao": "Parmesão e Orégano",
-      "carne": "Veggie burger",
-      "opcionais": [
-        "Cheddar"
-      ],
-      "status": "Finalizado",
-      "id": 2
-    },
-    {
-      "nome": "Roberto Carlos",
+      "nome": "CriticalNoob02",
       "pao": "3 Queijos",
-      "carne": "Alcatra",
+      "carne": "Picanha",
       "opcionais": [
-        "Bacon",
-        "Tomate"
+        "Cheddar",
+        "Tomate",
+        "Salame",
+        "Cebola roxa"
       ],
       "status": "Em produção",
-      "id": 3
+      "id": 1
+    },
+    {
+      "nome": "fofmmfdsf",
+      "pao": "Integral",
+      "carne": "Maminha",
+      "opcionais": [
+        "Bacon"
+      ],
+      "status": "Solicitado",
+      "id": 2
     }
   ]
 }

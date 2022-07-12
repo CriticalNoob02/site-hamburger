@@ -122,9 +122,7 @@ import Message from './Message.vue'
     }
     .table thead
     {
-
         border-bottom: 3px solid #121212;
-
     }
     .table thead th
     {
@@ -138,6 +136,7 @@ import Message from './Message.vue'
     .table tbody
     {
         border-bottom: 1px solid #12121227;
+        margin-bottom: 90px;
     }
     .table tbody tr td
     {

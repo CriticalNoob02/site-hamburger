@@ -4,7 +4,7 @@
         <form class="burgerForm" @submit="createBurger">
             <div class="inputContainer">
                 <label for="nome">Nome do Cliente:</label>
-                <input type="text" id="nome" name="nome" v-model="nome" placeholder="Digite seu nome aqui...">
+                <input type="text" autocomplete="off" id="nome" name="nome" v-model="nome" placeholder="Digite seu nome aqui...">
             </div>
             <div class="inputContainer">
                 <label for="pao">Escolha o Pão:</label>
@@ -36,7 +36,6 @@
 </template>
 
 <script>
-import { stringify } from 'postcss';
 import Message from './Message.vue'
 
     export default
