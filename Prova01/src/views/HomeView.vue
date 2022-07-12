@@ -1,26 +1,27 @@
 <template>
-    <Banner/>
-    <div class="main-container">
+        <Banner/>
+        <div class="main-container">
         <h1>Monte seu Buguer:</h1>
-        <FormBurger/>
-    </div>
+            <FormBurger/>
+        </div>
 </template>
 
 <script>
-    import Banner from "../components/Banner.vue";
+import Banner from "../components/Banner.vue";
 import FormBurger from "../components/FormBurger.vue";
+
 
     export default
     {
        name: "Home",
        components: 
        {
-    Banner,
-    FormBurger,
-} 
+            Banner,
+            FormBurger,
+       },
     }
 
 </script>
 
-<style>
+<style scoped>
 </style>

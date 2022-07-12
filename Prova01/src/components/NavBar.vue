@@ -1,13 +1,13 @@
 <template>
-      <nav class="nav">
-        <RouterLink to="/">
-            <img :src="logo" :alt="desc" id="logo">
-        </RouterLink>
-        <div id="nav">
-            <RouterLink to="/">Home</RouterLink>
-            <RouterLink to="/pedidos">Pedidos</RouterLink>
-        </div>
-      </nav>
+        <nav class="nav">
+            <RouterLink to="/">
+                <img :src="logo" :alt="desc" id="logo">
+            </RouterLink>
+            <div id="nav">
+                <RouterLink to="/">Home</RouterLink>
+                <RouterLink to="/pedidos">Pedidos</RouterLink>
+            </div>
+        </nav>
 </template>
 
 <script>
