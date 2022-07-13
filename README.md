@@ -16,8 +16,17 @@ _
 
 ### Proximas Atualizações
 
-+ Site Responsivo
++ ~Site Responsivo~
 + Adicionar Carrinho de Compras
 + Sessão de Login
 + Formulário para Adicionar mais ingredientes
 
+### Principais Caracteristicas
+
+Link do video do Projeto inteiro: https://www.linkedin.com/posts/adrieldevelop_css-html-javascript-activity-6952644799770292224-5S8K?utm_source=linkedin_share&utm_medium=member_desktop_web
+
+## Efeito Hover com sombra interna!
+![Front-End_Projeto3](https://user-images.githubusercontent.com/103211486/178790756-494650df-e242-4c15-b089-e949975db36f.gif)
+
+
+## Responsividade!
